@@ -1,9 +1,4 @@
-//find duplicate consicutive elements in an array then remove the duplicate elements and print the array and also show the duplicate numbers
-
-
-
-
-
+//find duplicate consecutive elements in an array then remove the duplicate elements and print the array and also show the duplicate numbers
 
 import java.util.Scanner;
 public class SingleDimensional_Array {
@@ -35,3 +30,10 @@ public class SingleDimensional_Array {
         }
     }
 }
+
+// Output:
+// Enter the size of the array: 4
+// Enter the elements of the array:
+// 1 2 2 3
+// Array after removing duplicate elements:
+// 1 2 3

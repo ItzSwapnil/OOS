@@ -1,4 +1,4 @@
-// find prime numbers in a range using user input
+// find prime numbers in a range
 import java.util.Scanner;
 public class Range {
     public static void main(String[] args) {
@@ -25,3 +25,11 @@ public class Range {
     }
 }
 
+// Output:
+// Enter the lower no: 10
+// Enter the upper no: 20
+// 11
+// 13
+// 17
+// 19
+// 20

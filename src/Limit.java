@@ -1,4 +1,4 @@
-//find prime number using limit using user input
+//find prime number using limit
 import java.util.Scanner;
 public class Limit {
     public static void main(String[] args) {
@@ -22,3 +22,10 @@ public class Limit {
         }
     }
 }
+
+// Output:
+// Enter the limit: 10
+// 2
+// 3
+// 5
+// 7

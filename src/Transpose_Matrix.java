@@ -1,4 +1,4 @@
-//transpose of a matrix
+//WAP to find transpose of a matrix
 import java.util.Scanner;
 public class Transpose_Matrix {
     public  static void main(String[] args) {
@@ -30,3 +30,18 @@ public class Transpose_Matrix {
         }
     }
 }
+
+
+// Output:
+// Enter the no. of rows: 2
+// Enter the no. of columns: 3
+// Enter the elements of the matrix:
+// 1 2 3
+// 4 5 6
+// The matrix is:
+// 1 2 3
+// 4 5 6
+// The transpose of the matrix is:
+// 1 4
+// 2 5
+// 3 6
